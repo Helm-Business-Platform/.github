@@ -35,7 +35,7 @@ File: profile/README.md
 <br>
 
 <a href="https://usehelm.host">
-  <img src="./assets/helm-dashboard-overview.png" width="100%" alt="The Helm business dashboard">
+  <img src="https://raw.githubusercontent.com/Helm-Business-Platform/.github/main/profile/assets/helm-dashboard-overview.png" width="100%" alt="The Helm business dashboard">
 </a>
 
 <p align="center">
@@ -55,10 +55,10 @@ Helm replaces a disconnected website stack with one platform. Content, media, an
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/helm-content-editor.png" width="100%" alt="Managing website content in Helm">
+      <img src="https://raw.githubusercontent.com/Helm-Business-Platform/.github/main/profile/assets/helm-content-editor.png" width="100%" alt="Managing website content in Helm">
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/helm-customer-module.png" width="100%" alt="Managing connected customer operations in Helm">
+      <img src="https://raw.githubusercontent.com/Helm-Business-Platform/.github/main/profile/assets/helm-customer-module.png" width="100%" alt="Managing connected customer operations in Helm">
     </td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@ Helm can grow from a business website into the operational platform around it—
 </p>
 
 <a href="https://kagedproduction.co/en">
-  <img src="./assets/helm-customer-experience.png" width="100%" alt="The KAGED Production website powered by Helm">
+  <img src="https://raw.githubusercontent.com/Helm-Business-Platform/.github/main/profile/assets/helm-customer-experience.png" width="100%" alt="The KAGED Production website powered by Helm">
 </a>
 
 <p align="center">
