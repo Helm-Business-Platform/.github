@@ -18,7 +18,6 @@ clean until the final images are uploaded. Search for "SCREENSHOT SLOT".
 </picture>
 
 
-# Helm
 
 ### Your website and business, in one dashboard.
 
