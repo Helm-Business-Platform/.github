@@ -14,8 +14,7 @@ clean until the final images are uploaded. Search for "SCREENSHOT SLOT".
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/helm-wordmark-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/helm-wordmark-light.png">
-  <img alt="Helm" src="./assets/helm-wordmark-light.png" width="190">
+  <img alt="Helm" src="./assets/helm-wordmark-dark.png" width="190">
 </picture>
 
 
