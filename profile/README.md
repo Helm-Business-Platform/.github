@@ -134,7 +134,7 @@ Helm can grow from a business website into the operational platform around it—
 - **[Documentation](https://docs.usehelm.host)** — product guidance and technical information
 - **[Changelog](https://changelog.usehelm.host)** — new capabilities and improvements
 - **[System status](https://status.usehelm.host)** — live platform availability
-- **[Journal](https://usehelm.host/blog)** — guides, ideas and product stories
+- **[Blog](https://usehelm.host/blog)** — articles, guides and product updates
 - **[Partners](https://usehelm.host/partners)** — grow and deliver with Helm
 
 <br>
@@ -149,12 +149,14 @@ Beirut, Lebanon
   <a href="https://www.crunchbase.com/organization/helm-0c8e">Crunchbase</a>
   &nbsp;·&nbsp;
   <a href="https://www.trustpilot.com/review/usehelm.host">Trustpilot</a>
+  &nbsp;·&nbsp;
+  <a href="https://saasbrowser.com/en/saas/1528088/helm">SaaSBrowser</a>
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/company/usehelm/" title="Helm on LinkedIn"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/company/usehelm/" title="Helm on LinkedIn"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/usehelm.host" title="Helm on Instagram"><img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" height="24" alt="Instagram"></a>
   &nbsp;&nbsp;&nbsp;
