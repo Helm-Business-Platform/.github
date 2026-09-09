@@ -11,14 +11,13 @@ clean until the final images are uploaded. Search for "SCREENSHOT SLOT".
 
 <div align="center">
 
-<!-- LOGO SLOT
-Upload both files to profile/assets/, then replace the heading below with:
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/helm-wordmark-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/helm-wordmark-light.png">
   <img alt="Helm" src="./assets/helm-wordmark-light.png" width="190">
 </picture>
--->
+
 
 # Helm
 
@@ -54,16 +53,12 @@ Helm brings a business website, customer data and everyday operations together i
 
 Content, media, analytics, SEO, customer accounts, bookings, loyalty, orders, courses and other workflows can share the same records—giving owners a clearer view of their business and customers a more consistent experience.
 
-<!-- SCREENSHOT SLOT 01 — PRIMARY PRODUCT OVERVIEW
-Recommended image: a clean, wide screenshot of the main Helm dashboard.
-Upload as: profile/assets/helm-dashboard-overview.png
-Recommended ratio: 16:9 or 2:1, at least 1600 px wide.
-Then uncomment the block below:
+
 
 <p align="center">
   <img src="./assets/helm-dashboard-overview.png" alt="Helm business dashboard" width="100%">
 </p>
--->
+
 
 <br>
 
@@ -112,12 +107,7 @@ Then uncomment the block below:
   </tr>
 </table>
 
-<!-- SCREENSHOT SLOT 02 — TWO-PANEL PRODUCT STORY
-Recommended images:
-  profile/assets/helm-content-editor.png
-  profile/assets/helm-customer-module.png
-Recommended ratio: matching 4:3 images, at least 1000 px wide each.
-Then uncomment the table below:
+
 
 <table>
   <tr>
@@ -125,7 +115,7 @@ Then uncomment the table below:
     <td width="50%"><img src="./assets/helm-customer-module.png" alt="A connected customer module in Helm"></td>
   </tr>
 </table>
--->
+
 
 ## Built for businesses—not just websites
 
@@ -137,17 +127,13 @@ Helm is designed for small and growing businesses that want control without carr
 - **Flexible delivery** through Helm AI, the Helm team or an existing website
 - **Clear expansion path** as the business, team and customer base grow
 
-<!-- SCREENSHOT SLOT 03 — CUSTOMER EXPERIENCE
-Recommended image: a polished desktop-and-mobile composition showing a live
-customer website powered by Helm.
-Upload as: profile/assets/helm-customer-experience.png
-Recommended ratio: 16:9, at least 1600 px wide.
-Then uncomment:
+
 
 <p align="center">
   <img src="./assets/helm-customer-experience.png" alt="A customer experience powered by Helm" width="100%">
 </p>
--->
+
+
 
 ## Explore Helm
 
