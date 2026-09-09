@@ -145,13 +145,27 @@ Helm can grow from a business website into the operational platform around it—
 Beirut, Lebanon  
 [contact@usehelm.host](mailto:contact@usehelm.host)
 
-<p>
-  <a href="https://www.crunchbase.com/organization/helm-0c8e">Crunchbase</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.trustpilot.com/review/usehelm.host">Trustpilot</a>
-  &nbsp;·&nbsp;
-  <a href="https://saasbrowser.com/en/saas/1528088/helm">SaaSBrowser</a>
-</p>
+### Independent profiles
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>Crunchbase</h3>
+      <p><sub>Company information and founder profile</sub></p>
+      <p><a href="https://www.crunchbase.com/organization/helm-0c8e"><strong>View company profile ↗</strong></a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>Trustpilot</h3>
+      <p><sub>Independent customer reviews</sub></p>
+      <p><a href="https://www.trustpilot.com/review/usehelm.host"><strong>Read or leave a review ↗</strong></a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>SaaSBrowser</h3>
+      <p><sub>Software listing and product information</sub></p>
+      <p><a href="https://saasbrowser.com/en/saas/1528088/helm"><strong>View software profile ↗</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
