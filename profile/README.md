@@ -1,195 +1,172 @@
 <!--
-HELM ORGANIZATION PROFILE
+HELM PUBLIC ORGANIZATION PROFILE
 Repository: Helm-Business-Platform/.github
-Destination: profile/README.md
-
-IMAGE SETUP
-Create: profile/assets/
-The screenshot slots below are intentionally commented out so the page remains
-clean until the final images are uploaded. Search for "SCREENSHOT SLOT".
+File: profile/README.md
 -->
 
-<div align="center">
+<p align="center">
+  <a href="https://usehelm.host">
+    <img src="https://github.com/Helm-Business-Platform.png?size=160" width="104" height="104" alt="Helm">
+  </a>
+</p>
 
+<h1 align="center">Helm</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/helm-wordmark-dark.png">
-  <img alt="Helm" src="./assets/helm-wordmark-dark.png" width="190">
-</picture>
+<p align="center">
+  <strong>Your website, and the business behind it — one dashboard.</strong>
+</p>
 
+<p align="center">
+  Run your business and its website. No code required.
+</p>
 
-
-### Your website and business, in one dashboard.
-
-One secure platform for building, managing and understanding a business online.
+<p align="center">
+  <a href="https://usehelm.host"><strong>Website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://ai.usehelm.host"><strong>Helm AI</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://docs.usehelm.host"><strong>Docs</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://changelog.usehelm.host"><strong>Changelog</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://status.usehelm.host"><strong>Status</strong></a>
+</p>
 
 <br>
 
-<a href="https://usehelm.host"><img alt="Visit Helm" src="https://img.shields.io/badge/Visit_Helm-usehelm.host-F1784B?style=for-the-badge&logo=safari&logoColor=white"></a>
-<a href="https://ai.usehelm.host"><img alt="Helm AI" src="https://img.shields.io/badge/Helm_AI-Create_with_AI-18202A?style=for-the-badge&logo=openai&logoColor=white"></a>
-<a href="https://docs.usehelm.host"><img alt="Documentation" src="https://img.shields.io/badge/Documentation-Explore-18202A?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
-
-<br><br>
-
-<a href="https://changelog.usehelm.host">Changelog</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://status.usehelm.host">System status</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://usehelm.host/blog">Journal</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://usehelm.host/partners">Partners</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:contact@usehelm.host">Contact</a>
-
-</div>
-
----
-
-## One connected business platform
-
-Helm brings a business website, customer data and everyday operations together in one branded dashboard. Instead of stitching together separate tools and subscriptions, businesses work from one connected system built around their needs.
-
-Content, media, analytics, SEO, customer accounts, bookings, loyalty, orders, courses and other workflows can share the same records—giving owners a clearer view of their business and customers a more consistent experience.
-
-
+<a href="https://usehelm.host">
+  <img src="./assets/helm-dashboard-overview.png" width="100%" alt="The Helm business dashboard">
+</a>
 
 <p align="center">
-  <img src="./assets/helm-dashboard-overview.png" alt="Helm business dashboard" width="100%">
+  <sub>One place to manage the website, customers, performance and everyday operations.</sub>
 </p>
 
+<br>
+
+## Built around the business
+
+Helm replaces a disconnected website stack with one platform. Content, media, analytics, SEO, customer accounts, bookings, loyalty, orders, courses and other workflows can share the same records instead of living across separate tools and subscriptions.
+
+**Website & content** &nbsp;·&nbsp; **Customers** &nbsp;·&nbsp; **Bookings** &nbsp;·&nbsp; **Loyalty** &nbsp;·&nbsp; **Commerce** &nbsp;·&nbsp; **Courses** &nbsp;·&nbsp; **Analytics** &nbsp;·&nbsp; **SEO**
 
 <br>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>◈ Website & content</h3>
-      <p>Update pages, publish content, manage media and keep the business website current without depending on disconnected tools.</p>
+      <img src="./assets/helm-content-editor.png" width="100%" alt="Managing website content in Helm">
     </td>
     <td width="50%" valign="top">
-      <h3>◎ Customers & operations</h3>
-      <p>Bring customer accounts, bookings, loyalty, orders, courses and business-specific workflows into the same branded experience.</p>
+      <img src="./assets/helm-customer-module.png" width="100%" alt="Managing connected customer operations in Helm">
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>⌁ Analytics & SEO</h3>
-      <p>Understand performance, monitor search visibility and act on useful business data from the same place used to manage the website.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>◇ Connected modules</h3>
-      <p>Choose from 23 modules designed around real business needs. Each module connects to the wider Helm system instead of becoming another isolated subscription.</p>
-    </td>
+    <td align="center"><sub>Manage the website without the technical overhead.</sub></td>
+    <td align="center"><sub>Keep customer-facing workflows connected.</sub></td>
   </tr>
 </table>
 
-## Start your way
+<br>
 
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>Build with Helm AI</h3>
-      <p>Start shaping a business website through a guided AI experience.</p>
-      <p><a href="https://ai.usehelm.host"><strong>Open Helm AI →</strong></a></p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>Work with our team</h3>
-      <p>Launch a custom website and configure the right modules with direct support.</p>
-      <p><a href="https://usehelm.host"><strong>Explore Helm →</strong></a></p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>Connect an existing site</h3>
-      <p>Bring an existing website into Helm and add connected capabilities over time.</p>
-      <p><a href="mailto:contact@usehelm.host"><strong>Talk to Helm →</strong></a></p>
-    </td>
-  </tr>
-</table>
+## Twenty-three modules. One shared system.
 
+Businesses choose the capabilities they actually need while every enabled module remains part of the same Helm experience. That means fewer integrations to maintain, less duplicated data and a clearer view of how the business is performing.
 
+Helm can grow from a business website into the operational platform around it—without forcing the business to rebuild its digital presence each time it expands.
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/helm-content-editor.png" alt="Managing website content in Helm"></td>
-    <td width="50%"><img src="./assets/helm-customer-module.png" alt="A connected customer module in Helm"></td>
-  </tr>
-</table>
+<br>
 
+## Three ways to start
 
-## Built for businesses—not just websites
+1. **Build with [Helm AI](https://ai.usehelm.host)** — shape a new business website through a guided AI experience.
+2. **Work with the Helm team** — launch a custom website and configure the right modules with direct support.
+3. **Connect an existing website** — bring an established website into Helm and add connected capabilities over time.
 
-Helm is designed for small and growing businesses that want control without carrying the technical burden themselves. A business can begin with the website and expand into the operational modules it genuinely needs.
+<p>
+  <a href="https://usehelm.host"><strong>Explore the platform →</strong></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:contact@usehelm.host"><strong>Talk to Helm →</strong></a>
+</p>
 
-- **One branded experience** across the website, dashboard and customer-facing workflows
-- **English and Arabic experiences** for businesses serving multilingual audiences
-- **Direct, ongoing support** from people who understand the platform
-- **Flexible delivery** through Helm AI, the Helm team or an existing website
-- **Clear expansion path** as the business, team and customer base grow
+<br>
 
-
+## A business running on Helm
 
 <p align="center">
-  <img src="./assets/helm-customer-experience.png" alt="A customer experience powered by Helm" width="100%">
+  <a href="https://kagedproduction.co/en">
+    <img src="https://kagedproduction.co/icon.svg" width="64" height="64" alt="KAGED Production">
+  </a>
 </p>
 
+<h3 align="center">
+  <a href="https://kagedproduction.co/en">KAGED Production</a>
+</h3>
 
+<p align="center">
+  Creative and film production · Beirut, Lebanon
+</p>
 
-## Explore Helm
+<a href="https://kagedproduction.co/en">
+  <img src="./assets/helm-customer-experience.png" width="100%" alt="The KAGED Production website powered by Helm">
+</a>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>▣ Product</h3>
-      <p><a href="https://usehelm.host"><strong>Platform overview</strong></a><br>See what Helm brings together.</p>
-      <p><a href="https://ai.usehelm.host"><strong>Helm AI</strong></a><br>Start creating with AI.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>▤ Resources</h3>
-      <p><a href="https://docs.usehelm.host"><strong>Documentation</strong></a><br>Understand the platform.</p>
-      <p><a href="https://usehelm.host/blog"><strong>Journal</strong></a><br>Ideas, guides and updates.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>◉ Company</h3>
-      <p><a href="https://usehelm.host/partners"><strong>Partners</strong></a><br>Grow and deliver with Helm.</p>
-      <p><a href="mailto:contact@usehelm.host"><strong>Contact</strong></a><br>Speak directly with the team.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <sub>A live Helm-powered website, designed for KAGED Production across desktop and mobile.</sub>
+</p>
 
-## Open, reliable and continuously improving
+<br>
+
+## Designed for real-world businesses
+
+- One branded experience across the website, dashboard and connected workflows
+- English and Arabic experiences for multilingual businesses and audiences
+- Direct, ongoing support from a team that understands the platform
+- A flexible path from a website to deeper business operations
+- Connected data that becomes more useful as the business grows
+
+<br>
+
+## Resources
+
+- **[Platform](https://usehelm.host)** — explore Helm and its connected modules
+- **[Helm AI](https://ai.usehelm.host)** — start creating with AI
+- **[Documentation](https://docs.usehelm.host)** — product guidance and technical information
+- **[Changelog](https://changelog.usehelm.host)** — new capabilities and improvements
+- **[System status](https://status.usehelm.host)** — live platform availability
+- **[Journal](https://usehelm.host/blog)** — guides, ideas and product stories
+- **[Partners](https://usehelm.host/partners)** — grow and deliver with Helm
+
+<br>
+
+## Company
+
+**Helm S.A.R.L.**  
+Beirut, Lebanon  
+[contact@usehelm.host](mailto:contact@usehelm.host)
 
 <p>
-  <a href="https://status.usehelm.host"><img alt="Helm status" src="https://img.shields.io/badge/System_Status-View_live_status-18202A?style=flat-square&logo=statuspage&logoColor=white"></a>
-  <a href="https://changelog.usehelm.host"><img alt="Helm changelog" src="https://img.shields.io/badge/Changelog-See_what's_new-F1784B?style=flat-square&logo=git&logoColor=white"></a>
-  <a href="https://docs.usehelm.host"><img alt="Helm documentation" src="https://img.shields.io/badge/Documentation-Read_the_docs-18202A?style=flat-square&logo=readthedocs&logoColor=white"></a>
+  <a href="https://www.crunchbase.com/organization/helm-0c8e">Crunchbase</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.trustpilot.com/review/usehelm.host">Trustpilot</a>
 </p>
 
-Product improvements are published through the <a href="https://changelog.usehelm.host">Helm changelog</a>, platform availability is reported on the <a href="https://status.usehelm.host">public status page</a>, and product guidance lives in the <a href="https://docs.usehelm.host">documentation</a>.
+<br>
 
-## Find Helm elsewhere
-
-<p>
-  <a href="https://www.crunchbase.com/organization/helm-0c8e"><img alt="Helm on Crunchbase" src="https://img.shields.io/badge/Crunchbase-Company_profile-18202A?style=flat-square&logo=crunchbase&logoColor=white"></a>
-  <a href="https://www.trustpilot.com/review/usehelm.host"><img alt="Review Helm on Trustpilot" src="https://img.shields.io/badge/Trustpilot-Customer_reviews-00B67A?style=flat-square&logo=trustpilot&logoColor=white"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/company/usehelm/" title="Helm on LinkedIn"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/usehelm.host" title="Helm on Instagram"><img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" height="24" alt="Instagram"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/usehelmhost" title="Helm on X"><img src="https://img.shields.io/badge/-111111?style=flat-square&logo=x&logoColor=white" height="24" alt="X"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://youtube.com/@usehelm" title="Helm on YouTube"><img src="https://img.shields.io/badge/-FF0000?style=flat-square&logo=youtube&logoColor=white" height="24" alt="YouTube"></a>
 </p>
 
-<!-- SOCIAL LINKS SLOT
-Add official social badges here once you have confirmed the final public URLs.
-Recommended: LinkedIn first, followed by Instagram, YouTube and X.
-Do not publish placeholder URLs.
--->
+<p align="center">
+  <strong><a href="https://usehelm.host">Take command of your business online.</a></strong>
+</p>
 
----
-
-<div align="center">
-
-### Take command of your business online.
-
-<a href="https://usehelm.host"><strong>Visit Helm</strong></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:contact@usehelm.host"><strong>contact@usehelm.host</strong></a>
-
-<br><br>
-
-<sub>Helm S.A.R.L. · Beirut, Lebanon</sub>
-
-</div>
+<p align="center">
+  <sub>© 2026 Helm S.A.R.L.</sub>
+</p>
