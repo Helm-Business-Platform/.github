@@ -141,7 +141,7 @@ Helm can grow from a business website into the operational platform around it—
 
 ## Company
 
-**Helm S.A.R.L.**  
+**HELM**  
 Beirut, Lebanon  
 [contact@usehelm.host](mailto:contact@usehelm.host)
 
